@@ -4,10 +4,23 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>register</title>
+<link rel="stylesheet" href="">
+<style type="text/css">
+	body{
+		margin:0;
+		padding-top:50px;
+	}
+</style>
 </head>
 <body>
 
 <%@ include file="./common/navigation.jsp"%>
+
+<div class="container" style="height:1000px;">
+dfsgdfgs
+</div>
+
+<%@ include file="./common/bottom.jsp"%>
 
 </body>
 </html>

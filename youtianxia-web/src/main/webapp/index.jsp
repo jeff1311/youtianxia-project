@@ -14,72 +14,70 @@
 
 <%@ include file="WEB-INF/jsp/common/navigation.jsp"%>
 
-<div class="">
-	<div class="carousel slide" data-ride="carousel" data-interval="5000" id="slideshow">
-		
-		<ol class="carousel-indicators">
-			<li class="active" data-target="#slideshow" data-slide-to="0">
-			<li class="" data-target="#slideshow" data-slide-to="1">
-			<li class="" data-target="#slideshow" data-slide-to="2">
-			<li class="" data-target="#slideshow" data-slide-to="3">
-		</ol>
-		
-		<div class="carousel-inner">
-			<div class="item active">
-				<div class="carousel-img">
-					<img alt="" src="images/banner/gkts-01.jpg">
-				</div>
-				<div class="carousel-caption">
-					<h2>Bootstrap</h2>
-					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.
-					</p>
-				</div>
+<div class="carousel slide" data-ride="carousel" data-interval="5000" id="slideshow">
+	
+	<ol class="carousel-indicators">
+		<li class="active" data-target="#slideshow" data-slide-to="0">
+		<li class="" data-target="#slideshow" data-slide-to="1">
+		<li class="" data-target="#slideshow" data-slide-to="2">
+		<li class="" data-target="#slideshow" data-slide-to="3">
+	</ol>
+	
+	<div class="carousel-inner">
+		<div class="item active">
+			<div class="carousel-img">
+				<img alt="" src="images/banner/gkts-01.jpg">
 			</div>
-			<div class="item">
-				<div class="carousel-img">
-					<img alt="" src="images/banner/gkts-02.jpg">
-				</div>
-				<div class="carousel-caption">
-					<h2>Bootstrap</h2>
-					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.
-					</p>
-				</div>
-			</div>
-			<div class="item">
-				<div class="carousel-img">
-					<img alt="" src="images/banner/gkts-03.jpg">
-				</div>
-				<div class="carousel-caption">
-					<h2>Bootstrap</h2>
-					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.
-					</p>
-				</div>
-			</div>
-			<div class="item">
-				<div class="carousel-img">
-					<img alt="" src="images/banner/gkts-04.jpg">
-				</div>
-				<div class="carousel-caption">
-					<h2>Bootstrap</h2>
-					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.
-					</p>
-				</div>
+			<div class="carousel-caption">
+				<h2>Bootstrap</h2>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+				</p>
 			</div>
 		</div>
-		
-		<a href="#slideshow" data-slide="prev" class="left carousel-control">
-			<span class="glyphicon glyphicon-chevron-left"></span>
-		</a>
-		
-		<a href="#slideshow" data-slide="next" class="right carousel-control">
-			<span class="glyphicon glyphicon-chevron-right"></span>
-		</a>
-		
+		<div class="item">
+			<div class="carousel-img">
+				<img alt="" src="images/banner/gkts-02.jpg">
+			</div>
+			<div class="carousel-caption">
+				<h2>Bootstrap</h2>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+				</p>
+			</div>
+		</div>
+		<div class="item">
+			<div class="carousel-img">
+				<img alt="" src="images/banner/gkts-03.jpg">
+			</div>
+			<div class="carousel-caption">
+				<h2>Bootstrap</h2>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+				</p>
+			</div>
+		</div>
+		<div class="item">
+			<div class="carousel-img">
+				<img alt="" src="images/banner/gkts-04.jpg">
+			</div>
+			<div class="carousel-caption">
+				<h2>Bootstrap</h2>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+				</p>
+			</div>
+		</div>
 	</div>
+	
+	<a href="#slideshow" data-slide="prev" class="left carousel-control">
+		<span class="glyphicon glyphicon-chevron-left"></span>
+	</a>
+	
+	<a href="#slideshow" data-slide="next" class="right carousel-control">
+		<span class="glyphicon glyphicon-chevron-right"></span>
+	</a>
+	
 </div>
 
 <div class="container">
