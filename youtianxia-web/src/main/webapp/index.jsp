@@ -16,12 +16,12 @@
 
 <div class="carousel slide" data-ride="carousel" data-interval="5000" id="slideshow">
 	
-	<ol class="carousel-indicators">
+	<!-- <ol class="carousel-indicators">
 		<li class="active" data-target="#slideshow" data-slide-to="0">
 		<li class="" data-target="#slideshow" data-slide-to="1">
 		<li class="" data-target="#slideshow" data-slide-to="2">
 		<li class="" data-target="#slideshow" data-slide-to="3">
-	</ol>
+	</ol> -->
 	
 	<div class="carousel-inner">
 		<div class="item active">

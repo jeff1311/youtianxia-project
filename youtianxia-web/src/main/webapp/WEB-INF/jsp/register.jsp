@@ -14,10 +14,10 @@
 </head>
 <body>
 
-<%@ include file="./common/navigation.jsp"%>
+<%@ include file="./common/nav.jsp"%>
 
 <div class="container" style="height:1000px;">
-dfsgdfgs
+
 </div>
 
 <%@ include file="./common/bottom.jsp"%>

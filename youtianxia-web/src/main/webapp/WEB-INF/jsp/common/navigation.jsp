@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title></title>
-<link rel="stylesheet" href="/plugins/bootstrap-3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" href="/plugins/bootstrap-3.3.7/css/bootstrap.css">
 <link rel="stylesheet" href="/plugins/font-awesome-4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="/css/navigation.css">
 </head>
@@ -18,7 +18,7 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<img alt="" id="logo" src="images/icon/dq.png" class="navbar-left">
+			<img alt="" id="logo" src="/images/icon/dq.png" class="navbar-left">
 			<a href="#" class="navbar-brand"><strong>天下我游</strong></a>
 		</div>
 		<div class="collapse navbar-collapse" id="responsive-navbar">
@@ -58,5 +58,5 @@
 
 </body>
 <script type="text/javascript" src="/js/jquery-3.2.1.min.js"></script>
-<script type="text/javascript" src="/plugins/bootstrap-3.3.7/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/plugins/bootstrap-3.3.7/js/bootstrap.js"></script>
 </html>
