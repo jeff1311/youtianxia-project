@@ -80,7 +80,32 @@
 	
 </div>
 
-<div class="container">
+<div class="container main">
+	<div class="row">
+		<div class="col-md-12">
+			<div class="m-top">
+				<!-- <iframe src="plugins/img-gallery2/img-gallery.html" frameborder="0" scrolling="no" width="100%" height="400"></iframe> -->
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-9">
+			<div class="m-left"></div>
+			<div class="m-left"></div>
+			<div class="m-left"></div>
+			<div class="m-left"></div>
+			<div class="m-left"></div>
+			<div class="m-left"></div>
+			<div class="m-left"></div>
+			<div class="m-left"></div>
+		</div>
+		<div class="col-md-3">
+			<div class="m-right"></div>
+		</div>
+	</div>
+</div>
+
+<!-- <div class="container">
 	<div class="row">
 		<div class="col-md-8">			
 			<h1 class="page-header">主体</h1>
@@ -143,7 +168,7 @@
 			Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 		</div>
 	</div>
-</div>
+</div> -->
 
 <%@ include file="WEB-INF/jsp/common/bottom.jsp"%>
 

@@ -1,6 +1,11 @@
 *{
 	font-family: "Arial","Microsoft YaHei","÷ÚÌו","ËÎÌו",sans-serif;
-} 
+}
+body{
+	margin:0;
+	padding-top:50px;
+	background:#f8f8f8;
+}
 #logo{
 	width:26px;
 	height:26px;
@@ -16,9 +21,9 @@
 	}
 }
 .navbar-inverse input[type="text"]{
-	background:#313131;
+	background:white;
 	border:none;
-	color:white;
+	color:black;
 }
 .navbar-inverse .navbar-form{
 	position:relative;
@@ -41,4 +46,9 @@
 }
 .profile{
 	margin-right:25px;
+}
+.shadow{
+	-webkit-box-shadow: 0px 0px 10px #ebebeb;
+	-moz-box-shadow: 0px 0px 10px #ebebeb;
+	box-shadow: 0px 0px 10px #ebebeb;
 }
