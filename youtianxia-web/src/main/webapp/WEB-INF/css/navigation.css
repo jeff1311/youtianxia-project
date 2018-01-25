@@ -21,9 +21,9 @@ body{
 	}
 }
 .navbar-inverse input[type="text"]{
-	background:white;
+	background:#313131;
 	border:none;
-	color:black;
+	color:white;
 }
 .navbar-inverse .navbar-form{
 	position:relative;
