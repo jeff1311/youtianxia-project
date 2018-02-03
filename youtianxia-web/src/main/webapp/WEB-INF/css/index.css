@@ -108,9 +108,6 @@ body{
 	.banner{
 		display:none;
 	}
-	.main{
-		padding-top:60px;
-	}
 }
 @media(min-width:992px){
 	.nav-main{
