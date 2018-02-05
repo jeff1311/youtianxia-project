@@ -241,13 +241,12 @@ body{
 .nav-search{
 	margin:12px;
 	float:left;
-	background:#aab3bc;
 }
 .nav-search input[type=text]{
 	float:left;
 	width:250px;
 	height:36px;
-	border:1px solid #aab3bc;
+	border:1px solid #424242;
 	outline:none;
 	font-size:small;
 	line-height:30px;
@@ -263,7 +262,7 @@ body{
 	border:none;
 	outline:none;
 	cursor:pointer;
-	background:#aab3bc;
+	background:#424242;
 }
 /* .banner{
 	widht:100%;
