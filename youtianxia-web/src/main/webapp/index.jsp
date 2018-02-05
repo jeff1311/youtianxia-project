@@ -23,6 +23,7 @@
 			<div class="nav-menu-btn">游记</div>
 			<div class="nav-menu-btn">摄影</div>
 			<div class="nav-menu-btn">找民居</div>
+			<div class="nav-menu-btn">驴友社区</div>
 		</div>
 		<form class="nav-search">
 			<input type="text" placeholder="请输入关键词">
