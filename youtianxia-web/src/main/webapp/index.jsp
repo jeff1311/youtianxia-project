@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+<!-- <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"> -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title>home</title>
 <link rel="stylesheet" href="css/index.css">
@@ -21,11 +21,13 @@
 			<div class="nav-menu-btn on">主页</div>
 			<div class="nav-menu-btn">资讯</div>
 			<div class="nav-menu-btn">游记</div>
+			<div class="nav-menu-btn">摄影</div>
+			<div class="nav-menu-btn">找民居</div>
 		</div>
-		<!-- <form class="nav-search">
+		<form class="nav-search">
 			<input type="text" placeholder="请输入关键词">
 			<input type="button" value="搜索">
-		</form> -->
+		</form>
 		<div class="nav-portrait"></div>
 	</div>
 </div>
