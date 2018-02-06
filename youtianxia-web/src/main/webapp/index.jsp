@@ -16,9 +16,8 @@
 <body>
 <a id="top"></a>
 <div class="nav">
-	<div class="nav-main center">
+	<div class="nav-main">
 		<div class="logo"><div class="tian">天</div><div class="xia">下</div><div class="wo">我</div><div class="you">游</div></div>
-		<!-- <div class="logo"><img alt="" src="images/logo-blue.png" style="height:40px;margin-top:5px;"></div> -->
 		<div class="nav-menu">
 			<div class="nav-menu-btn on">主页</div>
 			<div class="nav-menu-btn">资讯</div>
@@ -44,26 +43,11 @@
 	<img alt="" src="../images/banner/7.jpg">
 	<img alt="" src="../images/banner/8.jpg">
 </div>
-<div class="main center">
-	<div class="m-top">
-		<div class="m-t-info"></div>
-	</div>
-	<div class="m-left">
-		<div class="m-l-info">		
-		</div>
-		<div class="m-l-info">		
-		</div>
-		<div class="m-l-info">		
-		</div>
-		<div class="m-l-info">		
-		</div>
-		<div class="m-l-info">		
-		</div>
-	</div>
-	<div class="m-right">
-		<div class="m-r-info">
-				
-		</div>
+<div class="main">
+	<p>资讯</p>
+	<div class="m-news">
+		<div class="m-news-left"></div>
+		<div class="m-news-right"></div>
 	</div>
 </div>
 <div class="to-top"><img alt="" src="images/rocket.png"></div>
@@ -71,22 +55,10 @@
 </body>
 <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
 <script type="text/javascript">
-/* setInterval(carousel,5000);
-var index = 0;
-function carousel(){
-	console.log(index);
-	var banner = new Array('01','02','03','04','05','06','07','08');
-	if(index == banner.length - 1){
-		index = 0;
-	}else{		
-		index ++;
-	}
-	$('#banner').css('background','url(../images/banner/gkts-'+banner[index]+'.jpg) no-repeat center center')
-} */
 $(function(){	
 	var winPos = $(window).scrollTop();//窗口顶部位置
 	var winHeight = $(window).height();//窗口可视区域高度
-	if(winPos > winHeight){
+	if(winPos > winHeight / 2){
 		$('.to-top').show();
 	}else{
 		$('.to-top').hide();
@@ -94,7 +66,7 @@ $(function(){
 	$(window).scroll(function(event){//窗口滚动监听
 		var winPos = $(window).scrollTop();//窗口顶部位置
 		var winHeight = $(window).height();//窗口可视区域高度
-		if(winPos > winHeight){
+		if(winPos > winHeight / 2){
 			$('.to-top').show();
 		}else{
 			$('.to-top').hide();
