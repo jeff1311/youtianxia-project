@@ -8,10 +8,8 @@
 <title>天下我游</title>
 <link rel="bookmark"  type="image/x-icon"  href="images/logo/favicon.ico"/><!-- 收藏用logo图标 -->
 <link rel="shortcut icon" href="images/logo/favicon.ico"><!-- 网站显示页logo图标 -->
+<link rel="stylesheet" href="css/icomoon/icomoon.css">
 <link rel="stylesheet" href="css/index.css">
-<style type="text/css">
-
-</style>
 </head>
 <body>
 <a id="top"></a>
@@ -26,9 +24,9 @@
 			<div class="nav-menu-btn">找民居</div>
 			<div class="nav-menu-btn">驴友社区</div>
 		</div>
-		<form class="nav-search">
-			<input type="text" placeholder="请输入关键词">
-			<input type="button" value="搜索">
+		<form class="nav-search" id="navSearch">
+			<input type="text" name="key" placeholder="请输入关键词">
+			<div><span class="icon-search"></span></div>
 		</form>
 		<div class="nav-portrait"></div>
 	</div>
@@ -50,11 +48,27 @@
 		<div class="m-news-right"></div>
 	</div>
 </div>
-<div class="to-top"><img alt="" src="images/rocket.png"></div>
-<div class="bottom"></div>
+
+<div class="to-top"><span class="icon-arrow-up2"></span></div>
+<div class="bottom">
+	<a href="http://www.miitbeian.gov.cn/">苏ICP备18007138号</a>
+</div>
 </body>
 <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
 <script type="text/javascript">
+$('#navSearch div').click(function(){
+	$.ajax({
+		url:'/search',
+		type:'get',
+		data:$('#navSearch').serialize(),
+		dataType:'json',
+		beforeSend:function(){
+		},
+		success:function(){
+			
+		}
+	})
+})
 $(function(){	
 	var winPos = $(window).scrollTop();//窗口顶部位置
 	var winHeight = $(window).height();//窗口可视区域高度
