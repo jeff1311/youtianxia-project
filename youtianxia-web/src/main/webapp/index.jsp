@@ -42,17 +42,142 @@
 	<img alt="" src="../images/banner/8.jpg">
 </div>
 <div class="main">
-	<div class="text">
-		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore 
-		magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo 
-		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-		Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	<p>游记<hr>
+	<div class="travel-notes">
+		<div class="travel-user_info">
+			<div class="portrait"></div>
+			<span>jeff1311</span>
+		</div>
+		<div class="travel-title">云之彼端约定的地方</div>
+		<div class="travel-text">
+			阿里看见是打飞机氨基酸理发氨基酸掉了开发了巨大理发的解放啦聚少离多看
+			风景埃里克圣诞节福利卡家圣诞快乐房间拉开坚实的理发卡进来看
+			阿里看见是打飞机氨基酸理发氨基酸掉了开发了巨大理发的解放啦聚少离多看
+			风景埃里克圣诞节福利卡家圣诞快乐房间拉开坚实的理发卡进来看
+			阿里看见是打飞机氨基酸理发氨基酸掉了开发了巨大理发的解放啦聚少离多看
+			风景埃里克圣诞节福利卡家圣诞快乐房间拉开坚实的理发卡进来看
+		</div>
+		<div class="travel-imgs">
+			<div class="travel-img">				
+				<img alt="" src="../images/banner/1.jpg">
+			</div>
+			<div class="travel-img">				
+				<img alt="" src="../images/banner/2.jpg">
+			</div>
+			<div class="travel-img">				
+				<img alt="" src="../images/banner/3.jpg">
+			</div>
+		</div>
 	</div>
-	<p>资讯</p>
-	<div class="m-news">
-		<div class="m-news-left"></div>
-		<div class="m-news-right"></div>
+	
+	<div class="travel-notes">
+		<div class="travel-user_info">
+			<div class="portrait"></div>
+			<span>jeff1311</span>
+		</div>
+		<div class="travel-title">云之彼端约定的地方</div>
+		<div class="travel-text">
+			阿里看见是打飞机氨基酸理发氨基酸掉了开发了巨大理发的解放啦聚少离多看
+			风景埃里克圣诞节福利卡家圣诞快乐房间拉开坚实的理发卡进来看
+			阿里看见是打飞机氨基酸理发氨基酸掉了开发了巨大理发的解放啦聚少离多看
+			风景埃里克圣诞节福利卡家圣诞快乐房间拉开坚实的理发卡进来看
+			阿里看见是打飞机氨基酸理发氨基酸掉了开发了巨大理发的解放啦聚少离多看
+			风景埃里克圣诞节福利卡家圣诞快乐房间拉开坚实的理发卡进来看
+		</div>
+		<div class="travel-imgs">
+			<div class="travel-img">				
+				<img alt="" src="../images/banner/1.jpg">
+			</div>
+			<div class="travel-img">				
+				<img alt="" src="../images/banner/2.jpg">
+			</div>
+			<div class="travel-img">				
+				<img alt="" src="../images/banner/3.jpg">
+			</div>
+		</div>
 	</div>
+	
+	<div class="travel-notes">
+		<div class="travel-user_info">
+			<div class="portrait"></div>
+			<span>jeff1311</span>
+		</div>
+		<div class="travel-title">云之彼端约定的地方</div>
+		<div class="travel-text">
+			阿里看见是打飞机氨基酸理发氨基酸掉了开发了巨大理发的解放啦聚少离多看
+			风景埃里克圣诞节福利卡家圣诞快乐房间拉开坚实的理发卡进来看
+			阿里看见是打飞机氨基酸理发氨基酸掉了开发了巨大理发的解放啦聚少离多看
+			风景埃里克圣诞节福利卡家圣诞快乐房间拉开坚实的理发卡进来看
+			阿里看见是打飞机氨基酸理发氨基酸掉了开发了巨大理发的解放啦聚少离多看
+			风景埃里克圣诞节福利卡家圣诞快乐房间拉开坚实的理发卡进来看
+		</div>
+		<div class="travel-imgs">
+			<div class="travel-img">				
+				<img alt="" src="../images/banner/1.jpg">
+			</div>
+			<div class="travel-img">				
+				<img alt="" src="../images/banner/2.jpg">
+			</div>
+			<div class="travel-img">				
+				<img alt="" src="../images/banner/3.jpg">
+			</div>
+		</div>
+	</div>
+	
+	<div class="travel-notes">
+		<div class="travel-user_info">
+			<div class="portrait"></div>
+			<span>jeff1311</span>
+		</div>
+		<div class="travel-title">云之彼端约定的地方</div>
+		<div class="travel-text">
+			阿里看见是打飞机氨基酸理发氨基酸掉了开发了巨大理发的解放啦聚少离多看
+			风景埃里克圣诞节福利卡家圣诞快乐房间拉开坚实的理发卡进来看
+			阿里看见是打飞机氨基酸理发氨基酸掉了开发了巨大理发的解放啦聚少离多看
+			风景埃里克圣诞节福利卡家圣诞快乐房间拉开坚实的理发卡进来看
+			阿里看见是打飞机氨基酸理发氨基酸掉了开发了巨大理发的解放啦聚少离多看
+			风景埃里克圣诞节福利卡家圣诞快乐房间拉开坚实的理发卡进来看
+		</div>
+		<div class="travel-imgs">
+			<div class="travel-img">				
+				<img alt="" src="../images/banner/1.jpg">
+			</div>
+			<div class="travel-img">				
+				<img alt="" src="../images/banner/2.jpg">
+			</div>
+			<div class="travel-img">				
+				<img alt="" src="../images/banner/3.jpg">
+			</div>
+		</div>
+	</div>
+	
+	<div class="travel-notes">
+		<div class="travel-user_info">
+			<div class="portrait"></div>
+			<span>jeff1311</span>
+		</div>
+		<div class="travel-title">云之彼端约定的地方</div>
+		<div class="travel-text">
+			阿里看见是打飞机氨基酸理发氨基酸掉了开发了巨大理发的解放啦聚少离多看
+			风景埃里克圣诞节福利卡家圣诞快乐房间拉开坚实的理发卡进来看
+			阿里看见是打飞机氨基酸理发氨基酸掉了开发了巨大理发的解放啦聚少离多看
+			风景埃里克圣诞节福利卡家圣诞快乐房间拉开坚实的理发卡进来看
+			阿里看见是打飞机氨基酸理发氨基酸掉了开发了巨大理发的解放啦聚少离多看
+			风景埃里克圣诞节福利卡家圣诞快乐房间拉开坚实的理发卡进来看
+		</div>
+		<div class="travel-imgs">
+			<div class="travel-img">				
+				<img alt="" src="../images/banner/1.jpg">
+			</div>
+			<div class="travel-img">				
+				<img alt="" src="../images/banner/2.jpg">
+			</div>
+			<div class="travel-img">				
+				<img alt="" src="../images/banner/3.jpg">
+			</div>
+		</div>
+	</div>
+	
 </div>
 
 <div class="to-top"><span class="icon-arrow-up2"></span></div>
