@@ -21,7 +21,7 @@
 			<div class="nav-menu-btn">资讯</div>
 			<div class="nav-menu-btn">游记</div>
 			<div class="nav-menu-btn">摄影</div>
-			<div class="nav-menu-btn">找民居</div>
+			<div class="nav-menu-btn">找民宿</div>
 			<div class="nav-menu-btn">驴友社区</div>
 		</div>
 		<form class="nav-search" id="navSearch">
@@ -57,7 +57,7 @@
 
 <div class="to-top"><span class="icon-arrow-up2"></span></div>
 <div class="bottom">
-	<a href="http://www.tianxiawoyou.com">©2018&nbsp;tianxiawoyou.com&nbsp;&nbsp;</a><a href="http://www.miitbeian.gov.cn/">苏ICP备18007138号</a>
+	<span>Copyright&nbsp;©2018&nbsp;tianxiawoyou.com. All rights reserved.&nbsp;&nbsp;</span><a href="http://www.miitbeian.gov.cn/">苏ICP备18007138号</a>
 </div>
 </body>
 <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>

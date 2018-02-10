@@ -61,7 +61,7 @@ body{
     -moz-box-shadow: 0 0px 3px rgba(26,26,26,0.1);
     box-shadow: 0 0px 3px rgba(26,26,26,0.1);
 }
-.bottom a{
+.bottom span,a{
 	line-height:200px;
 	color:#89929d;
 	font-size:small;
