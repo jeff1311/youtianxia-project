@@ -223,22 +223,21 @@ body{
 	height:36px;
 	color:#5c5c5c;
 	border:1px solid #89929d;
-	border-right:none;
 	outline:none;
 	font-size:small;
 	line-height:30px;
 	padding-left:10px;
+	padding-right:36px;
 	box-sizing:border-box;
 }
 .nav-search div{
 	float:left;
-	width:34px;
-	height:34px;
+	width:36px;
+	height:36px;
 	text-align:center;
 	/* background:#89929d; */
 	cursor:pointer;
-	border:1px solid #89929d;
-	border-left:none;
+	margin-left:-36px;
 }
 .icon-search{
 	color:#89929d;
