@@ -39,7 +39,7 @@ body{
 	-webkit-animation:fade-in 0.8s;/* Safari 和 Chrome */
 	-o-animation:fade-in 0.8s;/* Opera */
 }
-.to-top .icon-arrow-up2{
+.to-top .icon-arrow-up{
 	 color:white;
 	 font-size:30px;
 	 line-height:40px;
@@ -74,7 +74,7 @@ body{
 }
 .main{
 	margin:0 auto;
-	padding-top:10px;
+	padding-top:30px;
 	width:1170px;
 }
 /* @media(min-width:768px){
@@ -173,8 +173,8 @@ body{
 	float:right;
 	width:40px;
 	height:40px;
+	border-radius:100%;
 	margin-top:10px;
-	margin-bottom:10px;
 	background:url(../images/jimmy2.jpg);
 	background-size:100%;
 	background-repeat:no-repeat;
@@ -280,6 +280,32 @@ body{
 .banner img:nth-child(6){animation-delay:30s}
 .banner img:nth-child(7){animation-delay:35s}
 
+.title{
+	width:100%;
+	height:40px;
+	line-height:40px;
+	color:#ff9d00;
+	border-bottom:1px solid #efefef;
+}
+.title-btn{
+	margin-top:5px;
+	float:right;
+	width:100px;
+	height:30px;
+	color:white;
+	text-align:center;
+	line-height:30px;
+	cursor: pointer;
+	background:#ff9d00;
+}
+.icon-edit-3{
+	display:inline-block;
+    margin-right:5px;
+    overflow:hidden;
+    vertical-align:-2px;
+    color:white;
+}
+
 .travel-notes{
 	margin-top:20px;
 	margin-bottom:20px;
@@ -292,52 +318,59 @@ body{
 .travel-notes:hover{
 	background:#efefef;
 }
-.travel-user_info{
+.t-img-title{
+	position:relative;
 	float:left;
-	width:100%;
-	height:40px;
+	margin:10px;
+	width:333px;
+	height:206px;
 	overflow:hidden;
 }
-.travel-user_info .portrait{
+.t-img{
+	position:absolute;
+	width:110%;
+	top:0;left:0;right:0;bottom:0;
+	margin:auto;
+}
+.t-info{
+	float:left;
+	width:795px;
+	height:206px;
+	margin:10px;
+	/* border:1px solid #efefef; */
+	overflow:hidden;
+}
+.t-user{
+	width:100%;
+	height:40px;
+}
+.t-portrait{
 	float:left;
 	width:40px;
 	height:40px;
-	background:url(../images/jimmy2.jpg);
-	background-size:100%;
-	background-repeat:no-repeat;
+	border-radius:100%;
 }
-.travel-user_info span{
+.t-nickname{
+	float:left;
 	margin-left:10px;
 	line-height:40px;
 }
-.travel-title{
-	float:left;
+.t-date{
+	float:right;
+	line-height:40px;
+}
+.t-title{
 	width:100%;
-	padding-top:10px;
-	padding-bottom:5px;
-	font-size:30px;
+	height:30px;
+	line-height:30px;
+	letter-spacing:2px;
+	font-size:18px;
 	overflow:hidden;
+	text-overflow:ellipsis; /* 将被隐藏的那部分用省略号代替。 */
+	white-space: nowrap;/* 保证文本内容不会自动换行，如果多余的内容会在水平方向撑破单元格。 */
 }
-.travel-text{
-	padding-top:5px;
-	padding-bottom:10px;
-}
-.travel-imgs{
+.t-text{
 	width:100%;
-	height:200px;
-	overflow:hidden;
-}
-.travel-img{
-	position:relative;
-	float:left;
-	width:30%;
-	height:200px;
-	margin-right:2%;
-	overflow:hidden;
-}
-.travel-img img{
-	position:absolute;
-	width:100%;
-	top:0;left:0;right:0;bottom:0;
-	margin:auto;
+	letter-spacing:2px;
+	font-size:14px;
 }

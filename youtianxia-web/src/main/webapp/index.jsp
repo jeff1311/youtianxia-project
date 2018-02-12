@@ -42,145 +42,195 @@
 	<img alt="" src="../images/banner/8.jpg">
 </div>
 <div class="main">
-	<p>游记<hr>
+	<div class="title">游记TOP10<div class="title-btn"><span class="icon-edit-3"></span>写游记</div></div>
 	<div class="travel-notes">
-		<div class="travel-user_info">
-			<div class="portrait"></div>
-			<span>jeff1311</span>
+		<div class="t-img-title">
+			<img class="t-img" src="../images/banner/1.jpg">
 		</div>
-		<div class="travel-title">云之彼端约定的地方</div>
-		<div class="travel-text">
-			阿里看见是打飞机氨基酸理发氨基酸掉了开发了巨大理发的解放啦聚少离多看
-			风景埃里克圣诞节福利卡家圣诞快乐房间拉开坚实的理发卡进来看
-			阿里看见是打飞机氨基酸理发氨基酸掉了开发了巨大理发的解放啦聚少离多看
-			风景埃里克圣诞节福利卡家圣诞快乐房间拉开坚实的理发卡进来看
-			阿里看见是打飞机氨基酸理发氨基酸掉了开发了巨大理发的解放啦聚少离多看
-			风景埃里克圣诞节福利卡家圣诞快乐房间拉开坚实的理发卡进来看
-		</div>
-		<div class="travel-imgs">
-			<div class="travel-img">				
-				<img alt="" src="../images/banner/1.jpg">
+		<div class="t-info">
+			<div class="t-user">
+				<img class="t-portrait" src="../images/jimmy2.jpg">
+				<div class="t-nickname">ljf1311</div>
+				<div class="t-date">2018-02-13 00:43:33</div>
 			</div>
-			<div class="travel-img">				
-				<img alt="" src="../images/banner/2.jpg">
-			</div>
-			<div class="travel-img">				
-				<img alt="" src="../images/banner/3.jpg">
+			<div class="t-title">云之彼端约定的地方</div>
+			<div class="t-text">
+				身份卡还是打款发货阿克苏电话费卡还是看的风景哈坎水电费会计卡机的发挥空间啊还是贷款减肥哈打哈上岛咖啡花开时接电话飞
+				啊速度快解放路口集散地福利健康啦圣诞节福利卡家里电视机付了款啊加水电费了健康蓝色极度分裂家里肯定就是法律框架速度的
+				蓝思科技地方了看加速扩大房间拉开家都快废了金坷垃啥极度分裂假大空世界疯了加上的看法安静地方精灵第十六届的书房里简单
+				数量肯定就发了卡视角对方立刻家里看电视房间拉开加上的看法金坷垃啥极度分裂来看待生理上的风景阿里地方安静思考福利啦京
+				傻大姐法律框架阿萨德房间拉开爱上加对方考虑加快了圣诞节福利卡加速扩大房间拉开啊加上的看法尽快沙发的说法记录卡世纪东
+				塑料袋看风景阿卡丽是加对方考虑加快了圣诞节福利卡加上贷款房间拉开阿斯加德福利局澳康达索拉卡九分裤家看电视剧卢卡斯的
+				案例看电视剧法律框架爱上的看法了家里开始大疆付了款家快递方式记录卡加上的看法了徕卡私房安家了大家是否加大开发尽快飞
 			</div>
 		</div>
 	</div>
 	
 	<div class="travel-notes">
-		<div class="travel-user_info">
-			<div class="portrait"></div>
-			<span>jeff1311</span>
+		<div class="t-img-title">
+			<img class="t-img" src="../images/banner/2.jpg">
 		</div>
-		<div class="travel-title">云之彼端约定的地方</div>
-		<div class="travel-text">
-			阿里看见是打飞机氨基酸理发氨基酸掉了开发了巨大理发的解放啦聚少离多看
-			风景埃里克圣诞节福利卡家圣诞快乐房间拉开坚实的理发卡进来看
-			阿里看见是打飞机氨基酸理发氨基酸掉了开发了巨大理发的解放啦聚少离多看
-			风景埃里克圣诞节福利卡家圣诞快乐房间拉开坚实的理发卡进来看
-			阿里看见是打飞机氨基酸理发氨基酸掉了开发了巨大理发的解放啦聚少离多看
-			风景埃里克圣诞节福利卡家圣诞快乐房间拉开坚实的理发卡进来看
-		</div>
-		<div class="travel-imgs">
-			<div class="travel-img">				
-				<img alt="" src="../images/banner/1.jpg">
+		<div class="t-info">
+			<div class="t-user">
+				<img class="t-portrait" src="../images/jimmy2.jpg">
+				<div class="t-nickname">ljf1311</div>
+				<div class="t-date">2018-02-13 00:43:33</div>
 			</div>
-			<div class="travel-img">				
-				<img alt="" src="../images/banner/2.jpg">
-			</div>
-			<div class="travel-img">				
-				<img alt="" src="../images/banner/3.jpg">
+			<div class="t-title">云之彼端约定的地方</div>
+			<div class="t-text">
+				身份卡还是打款发货阿克苏电话费卡还是看的风景哈坎水电费会计卡机的发挥空间啊还是贷款减肥哈打哈上岛咖啡花开时接电话飞
+				啊速度快解放路口集散地福利健康啦圣诞节福利卡家里电视机付了款啊加水电费了健康蓝色极度分裂家里肯定就是法律框架速度的
+				蓝思科技地方了看加速扩大房间拉开家都快废了金坷垃啥极度分裂假大空世界疯了加上的看法安静地方精灵第十六届的书房里简单
+				数量肯定就发了卡视角对方立刻家里看电视房间拉开加上的看法金坷垃啥极度分裂来看待生理上的风景阿里地方安静思考福利啦京
+				傻大姐法律框架阿萨德房间拉开爱上加对方考虑加快了圣诞节福利卡加速扩大房间拉开啊加上的看法尽快沙发的说法记录卡世纪东
+				塑料袋看风景阿卡丽是加对方考虑加快了圣诞节福利卡加上贷款房间拉开阿斯加德福利局澳康达索拉卡九分裤家看电视剧卢卡斯的
+				案例看电视剧法律框架爱上的看法了家里开始大疆付了款家快递方式记录卡加上的看法了徕卡私房安家了大家是否加大开发尽快飞
 			</div>
 		</div>
 	</div>
 	
 	<div class="travel-notes">
-		<div class="travel-user_info">
-			<div class="portrait"></div>
-			<span>jeff1311</span>
+		<div class="t-img-title">
+			<img class="t-img" src="../images/banner/3.jpg">
 		</div>
-		<div class="travel-title">云之彼端约定的地方</div>
-		<div class="travel-text">
-			阿里看见是打飞机氨基酸理发氨基酸掉了开发了巨大理发的解放啦聚少离多看
-			风景埃里克圣诞节福利卡家圣诞快乐房间拉开坚实的理发卡进来看
-			阿里看见是打飞机氨基酸理发氨基酸掉了开发了巨大理发的解放啦聚少离多看
-			风景埃里克圣诞节福利卡家圣诞快乐房间拉开坚实的理发卡进来看
-			阿里看见是打飞机氨基酸理发氨基酸掉了开发了巨大理发的解放啦聚少离多看
-			风景埃里克圣诞节福利卡家圣诞快乐房间拉开坚实的理发卡进来看
-		</div>
-		<div class="travel-imgs">
-			<div class="travel-img">				
-				<img alt="" src="../images/banner/1.jpg">
+		<div class="t-info">
+			<div class="t-user">
+				<img class="t-portrait" src="../images/jimmy2.jpg">
+				<div class="t-nickname">ljf1311</div>
+				<div class="t-date">2018-02-13 00:43:33</div>
 			</div>
-			<div class="travel-img">				
-				<img alt="" src="../images/banner/2.jpg">
-			</div>
-			<div class="travel-img">				
-				<img alt="" src="../images/banner/3.jpg">
+			<div class="t-title">云之彼端约定的地方</div>
+			<div class="t-text">
+				身份卡还是打款发货阿克苏电话费卡还是看的风景哈坎水电费会计卡机的发挥空间啊还是贷款减肥哈打哈上岛咖啡花开时接电话飞
+				啊速度快解放路口集散地福利健康啦圣诞节福利卡家里电视机付了款啊加水电费了健康蓝色极度分裂家里肯定就是法律框架速度的
+				蓝思科技地方了看加速扩大房间拉开家都快废了金坷垃啥极度分裂假大空世界疯了加上的看法安静地方精灵第十六届的书房里简单
+				数量肯定就发了卡视角对方立刻家里看电视房间拉开加上的看法金坷垃啥极度分裂来看待生理上的风景阿里地方安静思考福利啦京
+				傻大姐法律框架阿萨德房间拉开爱上加对方考虑加快了圣诞节福利卡加速扩大房间拉开啊加上的看法尽快沙发的说法记录卡世纪东
+				塑料袋看风景阿卡丽是加对方考虑加快了圣诞节福利卡加上贷款房间拉开阿斯加德福利局澳康达索拉卡九分裤家看电视剧卢卡斯的
+				案例看电视剧法律框架爱上的看法了家里开始大疆付了款家快递方式记录卡加上的看法了徕卡私房安家了大家是否加大开发尽快飞
 			</div>
 		</div>
 	</div>
 	
 	<div class="travel-notes">
-		<div class="travel-user_info">
-			<div class="portrait"></div>
-			<span>jeff1311</span>
+		<div class="t-img-title">
+			<img class="t-img" src="../images/banner/4.jpg">
 		</div>
-		<div class="travel-title">云之彼端约定的地方</div>
-		<div class="travel-text">
-			阿里看见是打飞机氨基酸理发氨基酸掉了开发了巨大理发的解放啦聚少离多看
-			风景埃里克圣诞节福利卡家圣诞快乐房间拉开坚实的理发卡进来看
-			阿里看见是打飞机氨基酸理发氨基酸掉了开发了巨大理发的解放啦聚少离多看
-			风景埃里克圣诞节福利卡家圣诞快乐房间拉开坚实的理发卡进来看
-			阿里看见是打飞机氨基酸理发氨基酸掉了开发了巨大理发的解放啦聚少离多看
-			风景埃里克圣诞节福利卡家圣诞快乐房间拉开坚实的理发卡进来看
-		</div>
-		<div class="travel-imgs">
-			<div class="travel-img">				
-				<img alt="" src="../images/banner/1.jpg">
+		<div class="t-info">
+			<div class="t-user">
+				<img class="t-portrait" src="../images/jimmy2.jpg">
+				<div class="t-nickname">ljf1311</div>
+				<div class="t-date">2018-02-13 00:43:33</div>
 			</div>
-			<div class="travel-img">				
-				<img alt="" src="../images/banner/2.jpg">
-			</div>
-			<div class="travel-img">				
-				<img alt="" src="../images/banner/3.jpg">
+			<div class="t-title">云之彼端约定的地方</div>
+			<div class="t-text">
+				身份卡还是打款发货阿克苏电话费卡还是看的风景哈坎水电费会计卡机的发挥空间啊还是贷款减肥哈打哈上岛咖啡花开时接电话飞
+				啊速度快解放路口集散地福利健康啦圣诞节福利卡家里电视机付了款啊加水电费了健康蓝色极度分裂家里肯定就是法律框架速度的
+				蓝思科技地方了看加速扩大房间拉开家都快废了金坷垃啥极度分裂假大空世界疯了加上的看法安静地方精灵第十六届的书房里简单
+				数量肯定就发了卡视角对方立刻家里看电视房间拉开加上的看法金坷垃啥极度分裂来看待生理上的风景阿里地方安静思考福利啦京
+				傻大姐法律框架阿萨德房间拉开爱上加对方考虑加快了圣诞节福利卡加速扩大房间拉开啊加上的看法尽快沙发的说法记录卡世纪东
+				塑料袋看风景阿卡丽是加对方考虑加快了圣诞节福利卡加上贷款房间拉开阿斯加德福利局澳康达索拉卡九分裤家看电视剧卢卡斯的
+				案例看电视剧法律框架爱上的看法了家里开始大疆付了款家快递方式记录卡加上的看法了徕卡私房安家了大家是否加大开发尽快飞
 			</div>
 		</div>
 	</div>
 	
 	<div class="travel-notes">
-		<div class="travel-user_info">
-			<div class="portrait"></div>
-			<span>jeff1311</span>
+		<div class="t-img-title">
+			<img class="t-img" src="../images/banner/5.jpg">
 		</div>
-		<div class="travel-title">云之彼端约定的地方</div>
-		<div class="travel-text">
-			阿里看见是打飞机氨基酸理发氨基酸掉了开发了巨大理发的解放啦聚少离多看
-			风景埃里克圣诞节福利卡家圣诞快乐房间拉开坚实的理发卡进来看
-			阿里看见是打飞机氨基酸理发氨基酸掉了开发了巨大理发的解放啦聚少离多看
-			风景埃里克圣诞节福利卡家圣诞快乐房间拉开坚实的理发卡进来看
-			阿里看见是打飞机氨基酸理发氨基酸掉了开发了巨大理发的解放啦聚少离多看
-			风景埃里克圣诞节福利卡家圣诞快乐房间拉开坚实的理发卡进来看
-		</div>
-		<div class="travel-imgs">
-			<div class="travel-img">				
-				<img alt="" src="../images/banner/1.jpg">
+		<div class="t-info">
+			<div class="t-user">
+				<img class="t-portrait" src="../images/jimmy2.jpg">
+				<div class="t-nickname">ljf1311</div>
+				<div class="t-date">2018-02-13 00:43:33</div>
 			</div>
-			<div class="travel-img">				
-				<img alt="" src="../images/banner/2.jpg">
-			</div>
-			<div class="travel-img">				
-				<img alt="" src="../images/banner/3.jpg">
+			<div class="t-title">云之彼端约定的地方</div>
+			<div class="t-text">
+				身份卡还是打款发货阿克苏电话费卡还是看的风景哈坎水电费会计卡机的发挥空间啊还是贷款减肥哈打哈上岛咖啡花开时接电话飞
+				啊速度快解放路口集散地福利健康啦圣诞节福利卡家里电视机付了款啊加水电费了健康蓝色极度分裂家里肯定就是法律框架速度的
+				蓝思科技地方了看加速扩大房间拉开家都快废了金坷垃啥极度分裂假大空世界疯了加上的看法安静地方精灵第十六届的书房里简单
+				数量肯定就发了卡视角对方立刻家里看电视房间拉开加上的看法金坷垃啥极度分裂来看待生理上的风景阿里地方安静思考福利啦京
+				傻大姐法律框架阿萨德房间拉开爱上加对方考虑加快了圣诞节福利卡加速扩大房间拉开啊加上的看法尽快沙发的说法记录卡世纪东
+				塑料袋看风景阿卡丽是加对方考虑加快了圣诞节福利卡加上贷款房间拉开阿斯加德福利局澳康达索拉卡九分裤家看电视剧卢卡斯的
+				案例看电视剧法律框架爱上的看法了家里开始大疆付了款家快递方式记录卡加上的看法了徕卡私房安家了大家是否加大开发尽快飞
 			</div>
 		</div>
 	</div>
+	
+	<div class="travel-notes">
+		<div class="t-img-title">
+			<img class="t-img" src="../images/banner/6.jpg">
+		</div>
+		<div class="t-info">
+			<div class="t-user">
+				<img class="t-portrait" src="../images/jimmy2.jpg">
+				<div class="t-nickname">ljf1311</div>
+				<div class="t-date">2018-02-13 00:43:33</div>
+			</div>
+			<div class="t-title">云之彼端约定的地方</div>
+			<div class="t-text">
+				身份卡还是打款发货阿克苏电话费卡还是看的风景哈坎水电费会计卡机的发挥空间啊还是贷款减肥哈打哈上岛咖啡花开时接电话飞
+				啊速度快解放路口集散地福利健康啦圣诞节福利卡家里电视机付了款啊加水电费了健康蓝色极度分裂家里肯定就是法律框架速度的
+				蓝思科技地方了看加速扩大房间拉开家都快废了金坷垃啥极度分裂假大空世界疯了加上的看法安静地方精灵第十六届的书房里简单
+				数量肯定就发了卡视角对方立刻家里看电视房间拉开加上的看法金坷垃啥极度分裂来看待生理上的风景阿里地方安静思考福利啦京
+				傻大姐法律框架阿萨德房间拉开爱上加对方考虑加快了圣诞节福利卡加速扩大房间拉开啊加上的看法尽快沙发的说法记录卡世纪东
+				塑料袋看风景阿卡丽是加对方考虑加快了圣诞节福利卡加上贷款房间拉开阿斯加德福利局澳康达索拉卡九分裤家看电视剧卢卡斯的
+				案例看电视剧法律框架爱上的看法了家里开始大疆付了款家快递方式记录卡加上的看法了徕卡私房安家了大家是否加大开发尽快飞
+			</div>
+		</div>
+	</div>
+	
+	<div class="travel-notes">
+		<div class="t-img-title">
+			<img class="t-img" src="../images/banner/7.jpg">
+		</div>
+		<div class="t-info">
+			<div class="t-user">
+				<img class="t-portrait" src="../images/jimmy2.jpg">
+				<div class="t-nickname">ljf1311</div>
+				<div class="t-date">2018-02-13 00:43:33</div>
+			</div>
+			<div class="t-title">云之彼端约定的地方</div>
+			<div class="t-text">
+				身份卡还是打款发货阿克苏电话费卡还是看的风景哈坎水电费会计卡机的发挥空间啊还是贷款减肥哈打哈上岛咖啡花开时接电话飞
+				啊速度快解放路口集散地福利健康啦圣诞节福利卡家里电视机付了款啊加水电费了健康蓝色极度分裂家里肯定就是法律框架速度的
+				蓝思科技地方了看加速扩大房间拉开家都快废了金坷垃啥极度分裂假大空世界疯了加上的看法安静地方精灵第十六届的书房里简单
+				数量肯定就发了卡视角对方立刻家里看电视房间拉开加上的看法金坷垃啥极度分裂来看待生理上的风景阿里地方安静思考福利啦京
+				傻大姐法律框架阿萨德房间拉开爱上加对方考虑加快了圣诞节福利卡加速扩大房间拉开啊加上的看法尽快沙发的说法记录卡世纪东
+				塑料袋看风景阿卡丽是加对方考虑加快了圣诞节福利卡加上贷款房间拉开阿斯加德福利局澳康达索拉卡九分裤家看电视剧卢卡斯的
+				案例看电视剧法律框架爱上的看法了家里开始大疆付了款家快递方式记录卡加上的看法了徕卡私房安家了大家是否加大开发尽快飞
+			</div>
+		</div>
+	</div>
+	
+	<div class="travel-notes">
+		<div class="t-img-title">
+			<img class="t-img" src="../images/banner/8.jpg">
+		</div>
+		<div class="t-info">
+			<div class="t-user">
+				<img class="t-portrait" src="../images/jimmy2.jpg">
+				<div class="t-nickname">ljf1311</div>
+				<div class="t-date">2018-02-13 00:43:33</div>
+			</div>
+			<div class="t-title">云之彼端约定的地方</div>
+			<div class="t-text">
+				身份卡还是打款发货阿克苏电话费卡还是看的风景哈坎水电费会计卡机的发挥空间啊还是贷款减肥哈打哈上岛咖啡花开时接电话飞
+				啊速度快解放路口集散地福利健康啦圣诞节福利卡家里电视机付了款啊加水电费了健康蓝色极度分裂家里肯定就是法律框架速度的
+				蓝思科技地方了看加速扩大房间拉开家都快废了金坷垃啥极度分裂假大空世界疯了加上的看法安静地方精灵第十六届的书房里简单
+				数量肯定就发了卡视角对方立刻家里看电视房间拉开加上的看法金坷垃啥极度分裂来看待生理上的风景阿里地方安静思考福利啦京
+				傻大姐法律框架阿萨德房间拉开爱上加对方考虑加快了圣诞节福利卡加速扩大房间拉开啊加上的看法尽快沙发的说法记录卡世纪东
+				塑料袋看风景阿卡丽是加对方考虑加快了圣诞节福利卡加上贷款房间拉开阿斯加德福利局澳康达索拉卡九分裤家看电视剧卢卡斯的
+				案例看电视剧法律框架爱上的看法了家里开始大疆付了款家快递方式记录卡加上的看法了徕卡私房安家了大家是否加大开发尽快飞
+			</div>
+		</div>
+	</div>
+	
 	
 </div>
 
-<div class="to-top"><span class="icon-arrow-up2"></span></div>
+<div class="to-top"><span class="icon-arrow-up"></span></div>
 <div class="bottom">
 	<span>Copyright&nbsp;©2018&nbsp;tianxiawoyou.com. All rights reserved.&nbsp;&nbsp;</span><a href="http://www.miitbeian.gov.cn/">苏ICP备18007138号</a>
 </div>
