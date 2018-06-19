@@ -3,14 +3,19 @@
 <head>
 <meta charset="UTF-8">
 <title>zimg test</title>
+    <style>
+        #show{
+            width:200px;
+        }
+    </style>
 </head>
 <body>
 <input type="file" id="upfile" name="userfile">
 <button id="upload">上传</button>
-<img alt="" src="" id="show">
+<img id="show" >
 </body>
 <script type="text/javascript">
-//原生JS版ajax文件上传
+//原生JS版ajax文件上传（和zimg交互）
 document.getElementById("upload").onclick = function() {
 	//文件ID
 	var fileId = "upfile";
@@ -34,7 +39,8 @@ document.getElementById("upload").onclick = function() {
 	  	if(data.ret == true){
 	  		var info = data.info;
 		 　    console.log(info.md5);
-			document.getElementById('show').src = 'http://47.97.113.145:4860/files/img/' + info.md5;
+		    alert('上传成功');
+			//document.getElementById('show').src = 'http://47.97.113.145:4860/files/img/' + info.md5 + '?w=200&h=200';
 	  	}else{
 	  		alert('上传失败');
 	  	}
@@ -49,6 +55,15 @@ document.getElementById("upload").onclick = function() {
 　　	}
 	} */ 
 }
- 
+
+//上传图片预览
+document.getElementById('upfile').onchange = function(){
+    var re = new FileReader();
+    re.readAsDataURL(this.files[0]);
+    re.onload = function(){
+        document.getElementById('show').src = re.result;
+    }
+}
+
 </script>
 </html>
