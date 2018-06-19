@@ -58,8 +58,11 @@ document.getElementById("upload").onclick = function() {
 
 //上传图片预览
 document.getElementById('upfile').onchange = function(){
+    //创建FileReader
     var re = new FileReader();
+    //读取文件
     re.readAsDataURL(this.files[0]);
+    //读取完成后显示BASE64
     re.onload = function(){
         document.getElementById('show').src = re.result;
     }
