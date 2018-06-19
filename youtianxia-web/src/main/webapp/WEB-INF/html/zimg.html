@@ -38,7 +38,7 @@ document.getElementById("upload").onclick = function() {
 	  	var data = JSON.parse(ajax.responseText);
 	  	if(data.ret == true){
 	  		var info = data.info;
-		 　    console.log(info.md5);
+　          console.log(info.md5);
 		    alert('上传成功');
 			//document.getElementById('show').src = 'http://47.97.113.145:4860/files/img/' + info.md5 + '?w=200&h=200';
 	  	}else{
