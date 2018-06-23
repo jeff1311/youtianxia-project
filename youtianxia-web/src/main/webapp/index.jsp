@@ -1,8 +1,8 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <c:set var="imgUrl" value="http://47.97.113.145:4860/files/img/"></c:set>
-<c:set var="bs" value="?w=1920&h=600&q=100"></c:set>
-<c:set var="ts" value="?w=300&h=300&q=100"></c:set>
+<c:set var="bs" value="?w=1920&h=800&q=70"></c:set>
+<c:set var="ts" value="?w=300&h=300&q=70"></c:set>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
@@ -46,7 +46,39 @@
 	<img alt="" src="${imgUrl}9e38198a8ce5fc0368b340152b774c5f${bs}">
 </div>
 <div class="main">
-	<div class="title">游记TOP8<div class="title-btn"><span class="icon-edit-3"></span>写游记</div></div>
+
+    <div class="title">游记TOP8<div class="title-btn"><span class="icon-edit-3"></span>写游记</div></div>
+    <div class="top-8">
+        <a class="top red" href="">
+
+        </a>
+        <a class="top yellow" href="">
+
+        </a>
+        <a class="top blue" href="">
+
+        </a>
+        <a class="top green" href="">
+
+        </a>
+
+        <a class="top cyan" href="">
+
+        </a>
+        <a class="top grey" href="">
+
+        </a>
+        <a class="top orange" href="">
+
+        </a>
+        <a class="top purple" href="">
+
+        </a>
+    </div>
+
+    <div class="partition"></div>
+
+    <div class="title">摄影<div class="title-btn">查看更多</div></div>
 	<div class="gallery">
 		<a class="gallery-a" href="${imgUrl}c5313465e713015eaf89a01402fc3366" data-size="" data-author="jeff1311">
 			<img class="gallery-img" src="${imgUrl}c5313465e713015eaf89a01402fc3366?h=300" />
@@ -93,6 +125,7 @@
 </div>
 
 <div class="to-top"><span class="icon-arrow-up"></span></div>
+
 <div class="bottom">
 	<span>Copyright&nbsp;©2018&nbsp;tianxiawoyou.com. All rights reserved.&nbsp;&nbsp;</span><a href="http://www.miitbeian.gov.cn/">苏ICP备18007138号</a>
 </div>
