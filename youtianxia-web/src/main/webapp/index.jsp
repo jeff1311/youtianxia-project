@@ -138,7 +138,6 @@
             img.onload = function(){
                 var imgSize = img.width + 'x' + img.height;
                 $(that).attr('data-size', imgSize);
-                console.log($(that));
             }
         })
 

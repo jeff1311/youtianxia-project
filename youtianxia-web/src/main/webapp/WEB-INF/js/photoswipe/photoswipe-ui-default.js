@@ -234,7 +234,7 @@ var PhotoSwipeUI_Default =
 				page_url = _options.getPageURLForShare(shareButtonData);
 				share_text = _options.getTextForShare(shareButtonData);
 
-				shareURL = shareButtonData.url.replace('{{url}}', encodeURIComponent(page_url) )
+				shareURL = shareButtonData.url.replace('{{url}}', encodeURIComponent('http://tianxiawoyou.com') )
 									.replace('{{image_url}}', encodeURIComponent(image_url) )
 									.replace('{{raw_image_url}}', image_url )
 									.replace('{{text}}', encodeURIComponent(share_text) );
