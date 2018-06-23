@@ -279,17 +279,13 @@ body{
 	vertical-align:-2px;
 	color:white;
 }
-.img-t{
+.gallery-a{
 	float:left;
 	width:300px;
 	height:300px;
 	cursor:pointer;
 	text-align:center;
-}
-.img-text{
-	margin-top:200px;
-	position:absolute;
-	color:white;
+	overflow: hidden;
 }
 .red{
 	background:#ff7171;
