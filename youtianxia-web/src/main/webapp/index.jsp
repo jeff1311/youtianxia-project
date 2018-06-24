@@ -39,7 +39,7 @@
 			<input type="text" name="key" placeholder="请输入关键词" autocomplete="off">
 			<div><span class="icon-search"></span></div>
 		</form>
-		<div class="nav-portrait"></div>
+		<div class="nav-avatar"></div>
 	</div>
 </div>
 <div class="banner" id="banner" ondragstart="window.event.returnValue=false" oncontextmenu="window.event.returnValue=false" onselectstart="event.returnValue=false">
@@ -48,30 +48,49 @@
 <div class="main">
 
     <div class="title">游记TOP8<div class="title-btn"><span class="icon-edit-3"></span>写游记</div></div>
-    <div class="top-8">
-        <a class="top red" href="">
+    <div class="travel_notes">
+        <div class="travel_note">
+			<a href="">
+				<img class="travel_note-banner" src="${imgUrl}9e38198a8ce5fc0368b340152b774c5f?w=280&h=200" alt="">
+			</a>
+			<span class="icon-map-pin"></span>
+			<span class="travel_note-location">珠穆朗玛峰</span>
+			<a href="">
+				<img  class="travel_note-avatar" src="images/jimmy2.jpg" alt="">
+			</a>
+			<a class="travel_note-nick_name" href="">不可能的可能 </a>
+			<a class="travel_note-title" href="">攀登珠峰全纪录十分大撒旦发射点发sdfasdf </a>
+			<hr class="line"></hr>
+			<div class="travel-date">2018-06-24</div>
+			<div class="icon-s">
+				<span class="icon-share-2"></span>
+				<span class="num">88</span>
+			</div>
+			<div class="icon-t">
+				<span class="icon-thumbs-up"></span>
+				<span class="num">99</span>
+			</div>
+        </div>
+        <a class="travel_note yellow" href="">
 
         </a>
-        <a class="top yellow" href="">
+        <a class="travel_note blue" href="">
 
         </a>
-        <a class="top blue" href="">
-
-        </a>
-        <a class="top green" href="">
+        <a class="travel_note green" href="">
 
         </a>
 
-        <a class="top cyan" href="">
+        <a class="travel_note cyan" href="">
 
         </a>
-        <a class="top grey" href="">
+        <a class="travel_note grey" href="">
 
         </a>
-        <a class="top orange" href="">
+        <a class="travel_note orange" href="">
 
         </a>
-        <a class="top purple" href="">
+        <a class="travel_note purple" href="">
 
         </a>
     </div>
@@ -127,7 +146,7 @@
 <div class="to-top"><span class="icon-arrow-up"></span></div>
 
 <div class="bottom">
-	<span>Copyright&nbsp;©2018&nbsp;tianxiawoyou.com. All rights reserved.&nbsp;&nbsp;</span><a href="http://www.miitbeian.gov.cn/">苏ICP备18007138号</a>
+	<span class="bottom-info">Copyright&nbsp;©2018&nbsp;tianxiawoyou.com. All rights reserved.&nbsp;&nbsp;</span><a class="bottom-info" href="http://www.miitbeian.gov.cn/">苏ICP备18007138号</a>
 </div>
 </body>
 <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
