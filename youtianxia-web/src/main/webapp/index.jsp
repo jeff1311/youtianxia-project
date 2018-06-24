@@ -47,19 +47,19 @@
 </div>
 <div class="main">
 
-    <div class="title">游记TOP8<div class="title-btn"><span class="icon-edit-3"></span>写游记</div></div>
+    <div class="title">热门游记<div class="title-btn"><span class="icon-edit-3"></span>写游记</div></div>
     <div class="travel_notes">
         <div class="travel_note">
 			<a href="">
-				<img class="travel_note-banner" src="${imgUrl}9e38198a8ce5fc0368b340152b774c5f?w=280&h=200" alt="">
+				<img class="travel_note-banner" src="${imgUrl}5d55e0d4113c3ad7b8819b030a5ddfe8?w=280&h=200" alt="">
 			</a>
 			<span class="icon-map-pin"></span>
-			<span class="travel_note-location">珠穆朗玛峰</span>
+			<span class="travel_note-location">印度-梅鲁峰</span>
 			<a href="">
 				<img  class="travel_note-avatar" src="images/jimmy2.jpg" alt="">
 			</a>
 			<a class="travel_note-nick_name" href="">不可能的可能 </a>
-			<a class="travel_note-title" href="">攀登珠峰全纪录十分大撒旦发射点发sdfasdf </a>
+			<a class="travel_note-title" href="">攀登梅鲁峰 </a>
 			<hr class="line"></hr>
 			<div class="travel-date">2018-06-24</div>
 			<div class="icon-s">
@@ -71,28 +71,167 @@
 				<span class="num">99</span>
 			</div>
         </div>
-        <a class="travel_note yellow" href="">
 
-        </a>
-        <a class="travel_note blue" href="">
+		<div class="travel_note">
+			<a href="">
+				<img class="travel_note-banner" src="${imgUrl}9d0a7faa417e27964f55b4f0e96c1582?w=280&h=200" alt="">
+			</a>
+			<span class="icon-map-pin"></span>
+			<span class="travel_note-location">印度-梅鲁峰</span>
+			<a href="">
+				<img  class="travel_note-avatar" src="images/jimmy2.jpg" alt="">
+			</a>
+			<a class="travel_note-nick_name" href="">不可能的可能 </a>
+			<a class="travel_note-title" href="">攀登梅鲁峰 </a>
+			<hr class="line"></hr>
+			<div class="travel-date">2018-06-24</div>
+			<div class="icon-s">
+				<span class="icon-share-2"></span>
+				<span class="num">88</span>
+			</div>
+			<div class="icon-t">
+				<span class="icon-thumbs-up"></span>
+				<span class="num">99</span>
+			</div>
+		</div>
 
-        </a>
-        <a class="travel_note green" href="">
+		<div class="travel_note">
+			<a href="">
+				<img class="travel_note-banner" src="${imgUrl}dff406e19dea138ea7f66677d84f8ab3?w=280&h=200" alt="">
+			</a>
+			<span class="icon-map-pin"></span>
+			<span class="travel_note-location">印度-梅鲁峰</span>
+			<a href="">
+				<img  class="travel_note-avatar" src="images/jimmy2.jpg" alt="">
+			</a>
+			<a class="travel_note-nick_name" href="">不可能的可能 </a>
+			<a class="travel_note-title" href="">攀登梅鲁峰 </a>
+			<hr class="line"></hr>
+			<div class="travel-date">2018-06-24</div>
+			<div class="icon-s">
+				<span class="icon-share-2"></span>
+				<span class="num">88</span>
+			</div>
+			<div class="icon-t">
+				<span class="icon-thumbs-up"></span>
+				<span class="num">99</span>
+			</div>
+		</div>
 
-        </a>
+		<div class="travel_note">
+			<a href="">
+				<img class="travel_note-banner" src="${imgUrl}d7904e933e60669bec87951b517a4d2c?w=280&h=200" alt="">
+			</a>
+			<span class="icon-map-pin"></span>
+			<span class="travel_note-location">印度-梅鲁峰</span>
+			<a href="">
+				<img  class="travel_note-avatar" src="images/jimmy2.jpg" alt="">
+			</a>
+			<a class="travel_note-nick_name" href="">不可能的可能 </a>
+			<a class="travel_note-title" href="">攀登梅鲁峰 </a>
+			<hr class="line"></hr>
+			<div class="travel-date">2018-06-24</div>
+			<div class="icon-s">
+				<span class="icon-share-2"></span>
+				<span class="num">88</span>
+			</div>
+			<div class="icon-t">
+				<span class="icon-thumbs-up"></span>
+				<span class="num">99</span>
+			</div>
+		</div>
 
-        <a class="travel_note cyan" href="">
+		<div class="travel_note">
+			<a href="">
+				<img class="travel_note-banner" src="${imgUrl}6919c9a062927630e696906cfd9352e3?w=280&h=200" alt="">
+			</a>
+			<span class="icon-map-pin"></span>
+			<span class="travel_note-location">印度-梅鲁峰</span>
+			<a href="">
+				<img  class="travel_note-avatar" src="images/jimmy2.jpg" alt="">
+			</a>
+			<a class="travel_note-nick_name" href="">不可能的可能 </a>
+			<a class="travel_note-title" href="">攀登梅鲁峰 </a>
+			<hr class="line"></hr>
+			<div class="travel-date">2018-06-24</div>
+			<div class="icon-s">
+				<span class="icon-share-2"></span>
+				<span class="num">88</span>
+			</div>
+			<div class="icon-t">
+				<span class="icon-thumbs-up"></span>
+				<span class="num">99</span>
+			</div>
+		</div>
 
-        </a>
-        <a class="travel_note grey" href="">
+		<div class="travel_note">
+			<a href="">
+				<img class="travel_note-banner" src="${imgUrl}adfad8bede8a4851939f4930119cbce4?w=280&h=200" alt="">
+			</a>
+			<span class="icon-map-pin"></span>
+			<span class="travel_note-location">印度-梅鲁峰</span>
+			<a href="">
+				<img  class="travel_note-avatar" src="images/jimmy2.jpg" alt="">
+			</a>
+			<a class="travel_note-nick_name" href="">不可能的可能 </a>
+			<a class="travel_note-title" href="">攀登梅鲁峰 </a>
+			<hr class="line"></hr>
+			<div class="travel-date">2018-06-24</div>
+			<div class="icon-s">
+				<span class="icon-share-2"></span>
+				<span class="num">88</span>
+			</div>
+			<div class="icon-t">
+				<span class="icon-thumbs-up"></span>
+				<span class="num">99</span>
+			</div>
+		</div>
 
-        </a>
-        <a class="travel_note orange" href="">
+		<div class="travel_note">
+			<a href="">
+				<img class="travel_note-banner" src="${imgUrl}3028f8e395efa76b0d32592a5e60817c?w=280&h=200" alt="">
+			</a>
+			<span class="icon-map-pin"></span>
+			<span class="travel_note-location">印度-梅鲁峰</span>
+			<a href="">
+				<img  class="travel_note-avatar" src="images/jimmy2.jpg" alt="">
+			</a>
+			<a class="travel_note-nick_name" href="">不可能的可能 </a>
+			<a class="travel_note-title" href="">攀登梅鲁峰 </a>
+			<hr class="line"></hr>
+			<div class="travel-date">2018-06-24</div>
+			<div class="icon-s">
+				<span class="icon-share-2"></span>
+				<span class="num">88</span>
+			</div>
+			<div class="icon-t">
+				<span class="icon-thumbs-up"></span>
+				<span class="num">99</span>
+			</div>
+		</div>
 
-        </a>
-        <a class="travel_note purple" href="">
-
-        </a>
+		<div class="travel_note">
+			<a href="">
+				<img class="travel_note-banner" src="${imgUrl}c528cd1a8d99c262f03592dd76f33d1f?w=280&h=200" alt="">
+			</a>
+			<span class="icon-map-pin"></span>
+			<span class="travel_note-location">印度-梅鲁峰</span>
+			<a href="">
+				<img  class="travel_note-avatar" src="images/jimmy2.jpg" alt="">
+			</a>
+			<a class="travel_note-nick_name" href="">不可能的可能 </a>
+			<a class="travel_note-title" href="">攀登梅鲁峰 </a>
+			<hr class="line"></hr>
+			<div class="travel-date">2018-06-24</div>
+			<div class="icon-s">
+				<span class="icon-share-2"></span>
+				<span class="num">88</span>
+			</div>
+			<div class="icon-t">
+				<span class="icon-thumbs-up"></span>
+				<span class="num">99</span>
+			</div>
+		</div>
     </div>
 
     <div class="partition"></div>
@@ -114,15 +253,38 @@
 			<figure style="display:none;">挂在鱼尾峰岩壁上看日出</figure>
 		</a>
 
+
 		<a class="gallery-a" href="${imgUrl}168ce9457e8a3ea56ce508babdcc00e8" data-size="" data-author="jeff1311">
 			<img class="gallery-img" src="${imgUrl}168ce9457e8a3ea56ce508babdcc00e8?h=300" />
 			<figure style="display:none;">傍晚的鱼尾峰</figure>
 		</a>
 
-        <a class="gallery-a" href="${imgUrl}bdbf2e35aed112b811598b13d67634d5" data-size="" data-author="jeff1311">
-            <img class="gallery-img" src="${imgUrl}bdbf2e35aed112b811598b13d67634d5?h=300" />
-            <figure style="display:none;">高空跳伞</figure>
-        </a>
+		<a class="gallery-a" href="${imgUrl}e053cac9cb21cdc30d98dee85e67ba7b" data-size="" data-author="jeff1311">
+			<img class="gallery-img" src="${imgUrl}e053cac9cb21cdc30d98dee85e67ba7b?w=300" />
+			<figure style="display:none;">鱼尾峰脚下作画</figure>
+		</a>
+
+		<a class="gallery-a" href="${imgUrl}a2294514ccd3f467c02c4e04b3037c7b" data-size="" data-author="jeff1311">
+			<img class="gallery-img" src="${imgUrl}a2294514ccd3f467c02c4e04b3037c7b?h=300" />
+			<figure style="display:none;">正在攀登鱼尾峰的Jimmy</figure>
+		</a>
+
+		<a class="gallery-a" href="${imgUrl}0b3eac8cc2d4bc0b587cf8b64821372f" data-size="" data-author="jeff1311">
+			<img class="gallery-img" src="${imgUrl}0b3eac8cc2d4bc0b587cf8b64821372f?h=300" />
+			<figure style="display:none;">鱼尾峰脚下合照</figure>
+		</a>
+
+		<a class="gallery-a" href="${imgUrl}2560e7d413699cbee0240820de571b07" data-size="" data-author="jeff1311">
+			<img class="gallery-img" src="${imgUrl}2560e7d413699cbee0240820de571b07?w=300" />
+			<figure style="display:none;">正在攀登鱼尾峰的雷纳</figure>
+		</a>
+
+
+		<a class="gallery-a" href="${imgUrl}bdbf2e35aed112b811598b13d67634d5" data-size="" data-author="jeff1311">
+			<img class="gallery-img" src="${imgUrl}bdbf2e35aed112b811598b13d67634d5?h=300" />
+			<figure style="display:none;">高空跳伞</figure>
+		</a>
+
 
         <a class="gallery-a" href="${imgUrl}cf3e25cd6a2552b2c4759af18605647d" data-size="" data-author="jeff1311">
             <img class="gallery-img" src="${imgUrl}cf3e25cd6a2552b2c4759af18605647d?h=300" />
