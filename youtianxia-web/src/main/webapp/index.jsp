@@ -1,13 +1,13 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <c:set var="imgUrl" value="http://47.97.113.145:4860/files/img/"></c:set>
-<c:set var="bs" value="?w=1920&h=800&q=70"></c:set>
-<c:set var="ts" value="?w=300&h=300&q=70"></c:set>
+<c:set var="bs" value="?w=1920&h=800&q=75"></c:set>
+<c:set var="ts" value="?w=300&h=300&q=75"></c:set>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<!-- <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"> -->
+<%--<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">--%>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title>天下我游</title>
 <link rel="bookmark"  type="image/x-icon"  href="images/logo/favicon.ico"/><!-- 收藏用logo图标 -->
@@ -43,7 +43,7 @@
 	</div>
 </div>
 <div class="banner" id="banner" ondragstart="window.event.returnValue=false" oncontextmenu="window.event.returnValue=false" onselectstart="event.returnValue=false">
-	<img alt="" src="${imgUrl}9e38198a8ce5fc0368b340152b774c5f${bs}">
+	<img alt="" src="${imgUrl}9e38198a8ce5fc0368b340152b774c5f">
 </div>
 <div class="main">
 
@@ -61,14 +61,11 @@
 			<a class="travel_note-nick_name" href="">不可能的可能 </a>
 			<a class="travel_note-title" href="">攀登梅鲁峰 </a>
 			<hr class="line"></hr>
-			<div class="travel-date">2018-06-24</div>
-			<div class="icon-s">
-				<span class="icon-share-2"></span>
-				<span class="num">88</span>
-			</div>
-			<div class="icon-t">
-				<span class="icon-thumbs-up"></span>
-				<span class="num">99</span>
+			<div class="travel_note-info">
+				<span class="date">2018-06-24</span>
+				<span class="icon-share-2"> 88</span> |
+				<span class="icon-message-square"> 77</span> |
+				<span class="icon-thumbs-up"> 99</span>
 			</div>
         </div>
 
@@ -84,14 +81,11 @@
 			<a class="travel_note-nick_name" href="">不可能的可能 </a>
 			<a class="travel_note-title" href="">攀登梅鲁峰 </a>
 			<hr class="line"></hr>
-			<div class="travel-date">2018-06-24</div>
-			<div class="icon-s">
-				<span class="icon-share-2"></span>
-				<span class="num">88</span>
-			</div>
-			<div class="icon-t">
-				<span class="icon-thumbs-up"></span>
-				<span class="num">99</span>
+			<div class="travel_note-info">
+				<span class="date">2018-06-24</span>
+				<span class="icon-share-2"> 88</span> |
+				<span class="icon-message-square"> 77</span> |
+				<span class="icon-thumbs-up"> 99</span>
 			</div>
 		</div>
 
@@ -107,14 +101,11 @@
 			<a class="travel_note-nick_name" href="">不可能的可能 </a>
 			<a class="travel_note-title" href="">攀登梅鲁峰 </a>
 			<hr class="line"></hr>
-			<div class="travel-date">2018-06-24</div>
-			<div class="icon-s">
-				<span class="icon-share-2"></span>
-				<span class="num">88</span>
-			</div>
-			<div class="icon-t">
-				<span class="icon-thumbs-up"></span>
-				<span class="num">99</span>
+			<div class="travel_note-info">
+				<span class="date">2018-06-24</span>
+				<span class="icon-share-2"> 88</span> |
+				<span class="icon-message-square"> 77</span> |
+				<span class="icon-thumbs-up"> 99</span>
 			</div>
 		</div>
 
@@ -130,14 +121,11 @@
 			<a class="travel_note-nick_name" href="">不可能的可能 </a>
 			<a class="travel_note-title" href="">攀登梅鲁峰 </a>
 			<hr class="line"></hr>
-			<div class="travel-date">2018-06-24</div>
-			<div class="icon-s">
-				<span class="icon-share-2"></span>
-				<span class="num">88</span>
-			</div>
-			<div class="icon-t">
-				<span class="icon-thumbs-up"></span>
-				<span class="num">99</span>
+			<div class="travel_note-info">
+				<span class="date">2018-06-24</span>
+				<span class="icon-share-2"> 88</span> |
+				<span class="icon-message-square"> 77</span> |
+				<span class="icon-thumbs-up"> 99</span>
 			</div>
 		</div>
 
@@ -153,14 +141,11 @@
 			<a class="travel_note-nick_name" href="">不可能的可能 </a>
 			<a class="travel_note-title" href="">攀登梅鲁峰 </a>
 			<hr class="line"></hr>
-			<div class="travel-date">2018-06-24</div>
-			<div class="icon-s">
-				<span class="icon-share-2"></span>
-				<span class="num">88</span>
-			</div>
-			<div class="icon-t">
-				<span class="icon-thumbs-up"></span>
-				<span class="num">99</span>
+			<div class="travel_note-info">
+				<span class="date">2018-06-24</span>
+				<span class="icon-share-2"> 88</span> |
+				<span class="icon-message-square"> 77</span> |
+				<span class="icon-thumbs-up"> 99</span>
 			</div>
 		</div>
 
@@ -176,14 +161,11 @@
 			<a class="travel_note-nick_name" href="">不可能的可能 </a>
 			<a class="travel_note-title" href="">攀登梅鲁峰 </a>
 			<hr class="line"></hr>
-			<div class="travel-date">2018-06-24</div>
-			<div class="icon-s">
-				<span class="icon-share-2"></span>
-				<span class="num">88</span>
-			</div>
-			<div class="icon-t">
-				<span class="icon-thumbs-up"></span>
-				<span class="num">99</span>
+			<div class="travel_note-info">
+				<span class="date">2018-06-24</span>
+				<span class="icon-share-2"> 88</span> |
+				<span class="icon-message-square"> 77</span> |
+				<span class="icon-thumbs-up"> 99</span>
 			</div>
 		</div>
 
@@ -199,14 +181,11 @@
 			<a class="travel_note-nick_name" href="">不可能的可能 </a>
 			<a class="travel_note-title" href="">攀登梅鲁峰 </a>
 			<hr class="line"></hr>
-			<div class="travel-date">2018-06-24</div>
-			<div class="icon-s">
-				<span class="icon-share-2"></span>
-				<span class="num">88</span>
-			</div>
-			<div class="icon-t">
-				<span class="icon-thumbs-up"></span>
-				<span class="num">99</span>
+			<div class="travel_note-info">
+				<span class="date">2018-06-24</span>
+				<span class="icon-share-2"> 88</span> |
+				<span class="icon-message-square"> 77</span> |
+				<span class="icon-thumbs-up"> 99</span>
 			</div>
 		</div>
 
@@ -222,14 +201,11 @@
 			<a class="travel_note-nick_name" href="">不可能的可能 </a>
 			<a class="travel_note-title" href="">攀登梅鲁峰 </a>
 			<hr class="line"></hr>
-			<div class="travel-date">2018-06-24</div>
-			<div class="icon-s">
-				<span class="icon-share-2"></span>
-				<span class="num">88</span>
-			</div>
-			<div class="icon-t">
-				<span class="icon-thumbs-up"></span>
-				<span class="num">99</span>
+			<div class="travel_note-info">
+				<span class="date">2018-06-24</span>
+				<span class="icon-share-2"> 88</span> |
+				<span class="icon-message-square"> 77</span> |
+				<span class="icon-thumbs-up"> 99</span>
 			</div>
 		</div>
     </div>
