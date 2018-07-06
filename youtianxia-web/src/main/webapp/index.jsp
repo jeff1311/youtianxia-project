@@ -216,43 +216,43 @@
 	<div class="gallery">
 		<a class="gallery-a" href="${imgUrl}c5313465e713015eaf89a01402fc3366" data-size="" data-author="jeff1311">
 			<img class="gallery-img" src="${imgUrl}c5313465e713015eaf89a01402fc3366?h=300" />
-			<figure style="display:none;">正在攀登鱼尾峰的Jimmy</figure>
+			<figure style="display:none;">正在攀登梅鲁峰的Jimmy</figure>
 		</a>
 
 		<a class="gallery-a" href="${imgUrl}bbfcc65dde6bac0124a74c302373dafe" data-size="" data-author="jeff1311">
 			<img class="gallery-img" src="${imgUrl}bbfcc65dde6bac0124a74c302373dafe?h=300" />
-			<figure style="display:none;">正在攀登鱼尾峰的Jimmy</figure>
+			<figure style="display:none;">正在攀登梅鲁峰的Jimmy</figure>
 		</a>
 
 		<a class="gallery-a" href="${imgUrl}22b2ce23f05fd6e33c558689aa991180" data-size="" data-author="jeff1311">
 			<img class="gallery-img" src="${imgUrl}22b2ce23f05fd6e33c558689aa991180?h=300" />
-			<figure style="display:none;">挂在鱼尾峰岩壁上看日出</figure>
+			<figure style="display:none;">挂在梅鲁峰岩壁上看日出</figure>
 		</a>
 
 
 		<a class="gallery-a" href="${imgUrl}168ce9457e8a3ea56ce508babdcc00e8" data-size="" data-author="jeff1311">
 			<img class="gallery-img" src="${imgUrl}168ce9457e8a3ea56ce508babdcc00e8?h=300" />
-			<figure style="display:none;">傍晚的鱼尾峰</figure>
+			<figure style="display:none;">傍晚的梅鲁峰</figure>
 		</a>
 
 		<a class="gallery-a" href="${imgUrl}e053cac9cb21cdc30d98dee85e67ba7b" data-size="" data-author="jeff1311">
 			<img class="gallery-img" src="${imgUrl}e053cac9cb21cdc30d98dee85e67ba7b?w=300" />
-			<figure style="display:none;">鱼尾峰脚下作画</figure>
+			<figure style="display:none;">梅鲁峰脚下作画</figure>
 		</a>
 
 		<a class="gallery-a" href="${imgUrl}a2294514ccd3f467c02c4e04b3037c7b" data-size="" data-author="jeff1311">
 			<img class="gallery-img" src="${imgUrl}a2294514ccd3f467c02c4e04b3037c7b?h=300" />
-			<figure style="display:none;">正在攀登鱼尾峰的Jimmy</figure>
+			<figure style="display:none;">正在攀登梅鲁峰的Jimmy</figure>
 		</a>
 
 		<a class="gallery-a" href="${imgUrl}0b3eac8cc2d4bc0b587cf8b64821372f" data-size="" data-author="jeff1311">
 			<img class="gallery-img" src="${imgUrl}0b3eac8cc2d4bc0b587cf8b64821372f?h=300" />
-			<figure style="display:none;">鱼尾峰脚下合照</figure>
+			<figure style="display:none;">梅鲁峰脚下合照</figure>
 		</a>
 
 		<a class="gallery-a" href="${imgUrl}2560e7d413699cbee0240820de571b07" data-size="" data-author="jeff1311">
 			<img class="gallery-img" src="${imgUrl}2560e7d413699cbee0240820de571b07?w=300" />
-			<figure style="display:none;">正在攀登鱼尾峰的雷纳</figure>
+			<figure style="display:none;">正在攀登梅鲁峰的雷纳</figure>
 		</a>
 
 
